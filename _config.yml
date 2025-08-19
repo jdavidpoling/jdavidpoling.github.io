@@ -23,11 +23,11 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "James David Poling"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Research Fellow in Coastal Ecology at the University of Agder"
+  location         : "Arendal, Norway"
+  employer         : "University of Agder"
   uri              : # URL
   email            : "none@example.org" 
 
@@ -62,7 +62,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "j-david-poling"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
