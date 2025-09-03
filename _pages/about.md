@@ -18,7 +18,7 @@ PhD Work
 My PhD work focuses on the development of machine learning methods for studying marine fauna. This includes development of new models and ML-based workflows to analyze remote underwater video (BRUV/RUV) as well as working with fish indivudal re-identification for coastal cod. I am also leading a visual survey of Raet National Park here in Southern Norway looking at the effects of bottom trawling. 
 
 Computer Vision in Marine Ecology
-------
+======
 One of the main focuses of my work since my masters has been the development and implementation of computer vision/machine learning based methods for marine ecology. This has involved behavior tracking, faunal classification and now even individual re-identification in fish.
 
 **Detection and Classification**
