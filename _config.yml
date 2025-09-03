@@ -22,7 +22,7 @@ repository               : "/jdavidpoling.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jan2024_flødevigen_headshot.jpg"
+  avatar           : "profile.png"
   name             : "James David Poling"
   pronouns         : # example: "she/her"  
   bio              : "Research Fellow in Coastal Ecology at the University of Agder"

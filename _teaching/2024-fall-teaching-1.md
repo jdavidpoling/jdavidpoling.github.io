@@ -1,5 +1,5 @@
 ---
-title: "Teaching experience 1"
+title: "Zoophysiology Fall 2024"
 collection: teaching
 type: "Undergraduate course in Zoophysiology"
 permalink: /teaching/2024-fall-teaching-1
