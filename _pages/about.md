@@ -22,9 +22,11 @@ Computer Vision in Marine Ecology
 One of the main focuses of my work since my masters has been the development and implementation of computer vision/machine learning based methods for marine ecology. This has involved behavior tracking, faunal classification and now even individual re-identification in fish.
 
 **Detection and Classification**
+---
 The most basic of these tasks are detection and classification. Detection involves having the model tell us when something appears in our imagery, either still images or from a video stream. Without classification, detection would just label every target it sees as "fish" in underwater imagery, or "vehicle" in traffic camera footage. Classification takes us one step further and has the model predict what category an object may belong to. For surveying fish populations in southern Norway, this is differentiating between cod and pollack, or classifying wrasses based on sex using their sexual dimorphism.
 
 **Individual Re-Identification**
+---
 Individual re-identification (ReID) is a type of classification task where the model has to assign detections not only to a species or species group, but to a specific individual animal. This is like identifying whales based on their fluke patters, or your dog at the dog park based on its coat and patterns. We are interested in ReID for fish as it allows us to track invidual fish over time using cameras, without having to every catch and tag them. An "open-set" ReID system would also be able to add new individuals automatically and re-id them if they appeared again later.
 
 To implement Re-ID for fish, we are starting with coastal cod (Gadus morhua). This species is not only ecologically important but also 
@@ -34,7 +36,9 @@ Some existing work on animal re-identification my collaborators and others:
 - WildlifeDatasets: An Open-Source Toolkit for Animal Re-Identification (not species specific) [Link](https://openaccess.thecvf.com/content/WACV2024/html/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.html)
 - WildlifeReID-10k: Wildlife re-identification dataset with 10k individual animals [Link](https://arxiv.org/abs/2406.09211)
 
-
+**Remote Underwater Video**
+---
+We used underwater cameras to study many different aspects of the marine realem, from population counts, habitat condition, behavioral studies and more. The most common setup we use is a Baited Remote Underwater Video rig (BRUV). BRUVs use stereo-video (two cameras looking forwards) to give us depth perception for distance and length measurements. BRUVs are also baited (a BRUV with no bait is a RUV) which attracts individuals to the cameras to increase survey efficiency. Using bait is not appropriate for all studies, but as long as it is used in a documented systematic manner, it allows for the generation of large volumes of good data.
 
 Want to Chat?
 ------
