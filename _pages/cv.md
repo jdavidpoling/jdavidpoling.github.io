@@ -9,11 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
+This page is updated less frequently than my [LinkedIn](https://www.linkedin.com/in/j-david-poling/).
+You can reach me directly with questions at james.d.poling@uia.no
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Coastal Ecology, University of Agder, 2027 (expected)
+* M.S. in Coastal Environmental Management, Duke University, 2023
+* B.S. in Marine Science, Minor in Applied Ecology, North Carolina State University, 2021
 
 Work experience
 ======
