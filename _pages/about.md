@@ -15,7 +15,7 @@ I am an American Marine Scientist currently based in Southern Norway, where I am
 
 PhD Work
 ======
-My PhD work focuses on the development of deep learning-based methods for studying marine fauna. This includes development of new models and ML-based workflows to analyze remote underwater video (BRUV/RUV) as well as working with fish indivudal re-identification for coastal cod. I am also leading a visual survey of Raet National Park here in Southern Norway looking at the effects of protections from bottom trawling. 
+My PhD work focuses on the development of deep learning-based methods for studying marine fauna. This includes development of new models and ML-based workflows to analyze remote underwater video (BRUV/RUV) as well as working with fish indivudal re-identification for coastal cod. I am also leading a video survey of benthic habitat in Raet National Park here in Southern Norway looking at the effects of protections from bottom trawling. 
 
 Computer Vision in Marine Ecology
 ======
