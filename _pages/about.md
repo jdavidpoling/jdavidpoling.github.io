@@ -15,7 +15,7 @@ I am an American Marine Scientist currently based in Southern Norway, where I am
 
 PhD Work
 ======
-My PhD work focuses on the development of machine learning methods for studying marine fauna. This includes development of new models and ML-based workflows to analyze remote underwater video (BRUV/RUV) as well as working with fish indivudal re-identification for coastal cod. I am also leading a visual survey of Raet National Park here in Southern Norway looking at the effects of bottom trawling. 
+My PhD work focuses on the development of deep learning-based methods for studying marine fauna. This includes development of new models and ML-based workflows to analyze remote underwater video (BRUV/RUV) as well as working with fish indivudal re-identification for coastal cod. I am also leading a visual survey of Raet National Park here in Southern Norway looking at the effects of protections from bottom trawling. 
 
 Computer Vision in Marine Ecology
 ======
@@ -27,11 +27,11 @@ The most basic of these tasks are detection and classification. Detection involv
 
 **Individual Re-Identification**
 ---
-Individual re-identification (ReID) is a type of classification task where the model has to assign detections not only to a species or species group, but to a specific individual animal. This is like identifying whales based on their fluke patters, or your dog at the dog park based on its coat and patterns. We are interested in ReID for fish as it allows us to track invidual fish over time using cameras, without having to every catch and tag them. An "open-set" ReID system would also be able to add new individuals automatically and re-id them if they appeared again later.
+Individual re-identification (ReID) is a type of classification task where the model has to assign detections not only to a species or species group, but to a specific individual animal. This is like identifying whales based on their fluke patterns, or your dog at the dog park based on its coat and spots. We are interested in ReID for fish as it allows us to track invidual fish over time using cameras, without having to every catch and tag them. An "open-set" ReID system would also be able to add new individuals automatically and re-id them if they appeared again later.
 
-To implement Re-ID for fish, we are starting with coastal cod (Gadus morhua). This species is not only ecologically important but also 
+To implement Re-ID for fish, we are starting with coastal cod (Gadus morhua). This species is not only ecologically important but also and important top predator in many parts of the Atlantic which has seen vastly decreased numbers in many areas. We hope that the development of effective cod Re-ID methods will allow for us to study and inform management of cod populations more effectively through more accurate measurements of population size and movement.
 
-Some existing work on animal re-identification my collaborators and others:
+Some existing work on animal re-identification by my collaborators and others:
 - A contrastive learning approach for individual re-identification in a wild fish population (corkwing wrasse) [Link](https://arxiv.org/abs/2301.00596)
 - WildlifeDatasets: An Open-Source Toolkit for Animal Re-Identification (not species specific) [Link](https://openaccess.thecvf.com/content/WACV2024/html/Cermak_WildlifeDatasets_An_Open-Source_Toolkit_for_Animal_Re-Identification_WACV_2024_paper.html)
 - WildlifeReID-10k: Wildlife re-identification dataset with 10k individual animals [Link](https://arxiv.org/abs/2406.09211)
@@ -42,4 +42,4 @@ We used underwater cameras to study many different aspects of the marine realem,
 
 Want to Chat?
 ------
-If you have a specific question or would like to chat anything marine science or remote sensing, you can reach me at any of the links on the left hand of this page (below my face). My university email is where you will likely get the quickets response. If your question directly relates to any of my projects on GitHub you can also leave a note in "Issues" or "Discussions" in those repositories.
+If you have a specific question or would like to chat anything marine science or remote sensing, you can reach me at any of the links on the left hand of this page (below my face). My university email is where you will likely get the quickest response. If your question directly relates to any of my projects on GitHub you can also leave a note in "Issues" or "Discussions" in those repositories.
